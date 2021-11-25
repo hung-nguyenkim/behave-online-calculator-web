@@ -59,8 +59,9 @@ To install the dependencies for Android tests, run :
 ## Getting Started
 
 Refer to "config" folder, start executing cross browser test on BrowserStack by using the following steps:
-    - Configure value in "config/browserstack_config.json" file
-    - Run the following command to execute test on BrowserStack:
-        ```sh
-        paver run e2e
-        ```
+
+- Configure value in "config/browserstack_config.json" file
+- Run the following command to execute test on BrowserStack:
+    ```sh
+    paver run e2e
+    ```
